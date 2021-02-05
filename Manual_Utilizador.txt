@@ -1,0 +1,24 @@
+#################################### MANUAL DE UTILIZADOR #######################################
+#												#
+#  Este programa seria ultilizado por um porteiro de um parque de estacionamento.        	#
+#												#
+#												#
+#  Ao entrar no programa temos o Menu Principal onde podemos escolher entre "Sair" do 		#
+# programa ( pressionando a tecla '2') ou "Inicio" ( pressionando a tecla '1').			#
+# 												#
+#  No caso de escolher a opção "Sair" o programa irá fechar.					#
+#												#
+#  Se escolher a opção "Inicio" o programa vai esperar até que chegue um carro e de		#
+# seguida, quando o carro se aproximar, vai avisar que um carro com determinada matricula 	#
+# chegou, é nesta altura que o utilizador do programa deve registar a matricula vista,		#
+# através do teclado.										#
+#												#
+#  Depois da matricula ser registada, vamos esperar que o cliente volte e queira 		#
+# sair com o carro, quando isso se verificar é apresentada uma mensagem que informa o 		#
+# utilizador de que o carro pretende sair, neste momento o utilizador deve escrever 		#
+# através do teclado a matricula do carro que está a sair que pode ser vista a cima 		#
+# no ecrã, em seguida o programa apresenta o valor que o cliente deve pagar e é fornecida 	#
+# a opção ao utilizador de sair do programa (precionando a barra de espaço) ou 			#
+# continuar á espera que um novo carro chegue (pressionando qualquer outra tecla).  		#
+#												#
+#################################################################################################
